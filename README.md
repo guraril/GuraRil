@@ -4,11 +4,12 @@
 全て中途半端にかじるせいで技術系の器用貧乏になった。（なにもできない）  
 
 ## 最近の成果物
-[Fix VRCWorld issue in Linux](https://github.com/guraril/io.github.guraril.fix-linux-world-issues)
+[Linux VRCSDK Fix](https://github.com/guraril/LinuxVRCSDKFix)
 
 <!--
 これを見ているなんてとんだ物好きですね。こんなところまで見てくださる方には私についていくらかお教えしましょう。
 - kawaiiが大好き
 - ショタも好き（ショタコンじゃないよ！）
-- VRは持っていない（ほしい〜＞＜）
+- 最近おじさん・おにいさんも好きになってきた
+- VRは持っていない（そろそろ買うかも）
 -->
